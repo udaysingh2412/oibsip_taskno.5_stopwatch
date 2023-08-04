@@ -1,6 +1,5 @@
 # oibsip_taskno.5_stopwatch
-# Air Pollution Monitoring system
-
+# Stop Watch App
 This is an app development project, under Oasis Infobyte internship. Developing a stop watch app using flutter framework and dart language. 
 
 
